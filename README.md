@@ -11,12 +11,12 @@ The analysis helps identify dining preferences and patterns across different cit
 
 ## Tech Stack
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ## Summary of Insights
 
