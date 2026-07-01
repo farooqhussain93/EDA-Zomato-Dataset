@@ -1,18 +1,24 @@
 # Exploratory Data Analysis (EDA) on Zomato Dataset
 
+## Dataset
+
+Zomato restaurant dataset containing restaurant-level information such as restaurant name, city, cuisines, average cost, online delivery availability, table booking availability, price range, aggregate rating and votes.
+
 ## Project Overview
 
 This project performs an exploratory data analysis (EDA) on the Zomato dataset to uncover insights about restaurant distribution, customer ratings, cuisines, online delivery trends and market dominance of popular brands.
 The analysis helps identify dining preferences and patterns across different cities and countries.
 
-## Tools & Libraries
+## Tech Stack
 
-- Python
-- Pandas – data cleaning & manipulation
-- Matplotlib & Seaborn – data visualization
-- Jupyter Notebook – analysis & presentation
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
-## Final Summary of Insights
+## Summary of Insights
 
 ### Popular Cuisines:
 
@@ -33,3 +39,7 @@ The analysis helps identify dining preferences and patterns across different cit
 ### Price vs Ratings:
 
 - Price range does not exhibit a strong correlation with higher ratings, indicating that customer satisfaction depends more on service and quality than price.
+
+## License
+
+This project is licensed under the MIT License.
